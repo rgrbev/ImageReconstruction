@@ -1,3 +1,1 @@
 # ImageReconstruction
-#Grozdan
-#Riste
